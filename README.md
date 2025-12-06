@@ -1,1 +1,1 @@
-HomeWork from DLS Study in ML (sem 1)
+HomeWork from DLS Study in ML (autumn 2025 sem 1)
